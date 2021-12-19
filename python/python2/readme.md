@@ -1,4 +1,4 @@
-## Python version: 2.7
+## ![APM](https://img.shields.io/badge/python-2.7-green?style=flat-square)
 
 ### rsm.py
 
