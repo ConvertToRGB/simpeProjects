@@ -57,3 +57,12 @@ import ` <body></body> ` part element and save it as *.txt
 
 Bot that was written for [VK](https://vk.com)
 It automatically sends answer on every PM message from selected user.
+
+---
+
+### renamer.py
+
+Rename files that are dropped on that script. For example you have some pictures and they have random names [`banana.png`, `apple.jpg`, `nebula.jpg`] and you need to create sequence like [`pic_001.png`,`pic_002.jpg`, `pic_003.jpg`] then this script can help with this task. You must set new name and you can set padding (by default padding=3).
+
+
+

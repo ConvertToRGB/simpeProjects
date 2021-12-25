@@ -9,5 +9,6 @@ and make all income text in caps. Then user type string what requires decoration
 The result string will be this: 
 `!!!mydecorator!!!MY_STRING!!!mydecorator!!!`
 This string then is copied to clipboard and then program waits for the next string. Two command are allowed:
+
 - 'stop' - stop program
 - 'change' - change decoration string
